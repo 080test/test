@@ -1,5 +1,8 @@
 new file in folder
 
+555
+555
+555
 
 12345678
 new line for conflict
