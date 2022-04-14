@@ -1,1 +1,3 @@
 new file in folder
+
+new line for conflict
