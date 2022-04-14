@@ -4,3 +4,4 @@ new file in folder
 12345678
 new line for conflict
 
+888
